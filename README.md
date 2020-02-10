@@ -1,0 +1,2 @@
+# djangoblogapp
+Django ve Blog
